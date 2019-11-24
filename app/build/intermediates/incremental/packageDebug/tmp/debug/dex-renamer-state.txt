@@ -1,0 +1,4 @@
+#Sun Nov 24 15:30:45 BDT 2019
+base.0=C\:\\Users\\ETL-PC\\Downloads\\AndroidMemoryGame-master\\InfromationpostRequestusingRetrofit\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
